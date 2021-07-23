@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="restart">restart</string>
+    <string name="info">О приложении</string>
+    <string name="header_app">Крестики-нолики</string>
+    <string name="btn_name_pvp">играть против другого игрока</string>
+    <string name="btn_name_pvai">Играть против компьютера</string>
+</resources>
